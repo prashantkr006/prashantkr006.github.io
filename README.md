@@ -9,7 +9,7 @@ Welcome to my impactful portfolio! I'm a highly creative and self-motivated indi
 - **Portfolio:** [bio.link/prashantkr006](https://bio.link/prashantkr006)
 - **GitHub:** [prashantkr006](https://github.com/prashantkr006)
 
-## :briefcase: Work Experience
+## 💼: Work Experience
 
 ### Data Engineer Intern at Quantiphi
 (Mar 2023 - Present)
@@ -28,7 +28,7 @@ Website: [Infinity-Pillars](https://www.linkedin.com/company/infinity-pillars/my
 
 During my trainee role at HighRadius, I created a full-stack web-based product with data models, machine learning integration, UI components, and backend design expertise.
 
-## :rocket: Projects
+## 🚀: Projects
 
 ### Serverless Data Management on AWS
 (Jun 2023)
@@ -47,7 +47,7 @@ Website: [ShopStyle](https://prashantkr006.github.io/shopStyle/)
 
 I streamlined bike trip data analysis using AWS S3, Informatica Cloud (ETL), Snowflake (data warehousing), and Tableau (data visualization). This optimized rides and improved the overall user experience.
 
-## :trophy: Certifications
+## 🏆: Certifications
 
 - :cloud: Associate Cloud Engineer, Google
   Certified Associate Cloud Engineer with expertise in deploying and managing applications on cloud platforms, ensuring seamless integration and optimal performance.
@@ -57,7 +57,7 @@ I streamlined bike trip data analysis using AWS S3, Informatica Cloud (ETL), Sno
   Completed Modern Big Data Analysis with SQL specialization, which covers various aspects of data analysis and SQL usage.
   Certificate: [Coursera Certification](https://bit.ly/3uQPj8m)
 
-## :mortar_board: Education
+## 🎓: Education
 
 - Bachelor of Technology in Computer Science and Engineering
   Lovely Professional University, Punjab, India (Jul 2019 - Jun 2023)
@@ -67,7 +67,7 @@ I streamlined bike trip data analysis using AWS S3, Informatica Cloud (ETL), Sno
   BSEB, Bihar, India (Apr 2017 - Mar 2019)
   Percentage: 67.8%
 
-## :gear: Skills
+## ⚙️: Skills
 
 <div align="center">
   <table>
@@ -117,14 +117,14 @@ I streamlined bike trip data analysis using AWS S3, Informatica Cloud (ETL), Sno
 </div>
 
 
-## :computer: Programming Languages & Queries
+## 🖥️: Programming Languages & Queries
 
 - Python
 - Java
 - JavaScript
 - SQL
 
-## :book: Interests
+## 📖: Interests
 
 - Reading & Writing
 - Traveling
