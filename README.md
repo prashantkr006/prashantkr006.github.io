@@ -1,91 +1,97 @@
 # Prashant Kumar Roy - Portfolio
 
-Welcome to my portfolio website! This is where you can learn more about me, my work experience, projects, and skills.
-
-## About Me
-
-I'm a highly creative and self-motivated individual who loves to develop apps and let my inner creativity shine. I'm passionate about data engineering, app development, and cloud technologies.
+Welcome to my portfolio! I'm a highly creative and self-motivated individual passionate about developing apps and harnessing my inner creativity.
 
 - **Location:** Chandigarh, India
 - **Email:** prashantkr006@gmail.com
 - **Phone:** +91 911-0956-564
 - **LinkedIn:** [prashantkr006](https://www.linkedin.com/in/prashantkr006/)
+- **Portfolio:** [bio.link/prashantkr006](https://bio.link/prashantkr006)
 - **GitHub:** [prashantkr006](https://github.com/prashantkr006)
 
 ## Work Experience
 
-### Data Engineer at Quantiphi
-(July 2023 - Present)
+### Data Engineer Intern at Quantiphi
+(Mar 2023 - Present)
 
-At Quantiphi, I work on orchestrating end-to-end data pipelines using Snowflake and Informatica Cloud. I'm responsible for streamlining data integration and transformation processes, empowering data-driven decision-making with secure and scalable solutions.
+At Quantiphi, I'm involved in processing large datasets and building data pipelines. I collaborate on data model optimization and ETL processes, gaining skills in data manipulation, database management, and cloud technologies.
 
-Website: [Quantiphi](https://quantiphi.com/)
+### Software Developer at Infinity-Pillars
+(Jul 2022 - Nov 2022)
 
-### Trainee at HighRadius
-(January 2022 - April 2022)
+At Infinity-Pillars, I created the Nawee User, Nawee Agent, and Nawee Admin apps for Nigeria's courier service. I used React Native, Redux, Google Maps API, and more to deliver a comprehensive solution.
 
-During my time at HighRadius, I led full-stack web product development with machine learning integration. I implemented intelligent features using data models to deliver a user-centric experience.
+Website: [Infinity-Pillars](https://www.linkedin.com/company/infinity-pillars/mycompany/)
 
-Website: [HighRadius](https://drive.google.com/file/d/1PsYpr9cceOKQniLjet7k96qfvm5uYOSz/view?usp=sharing)
+### Software Developer Trainee at HighRadius
+(Jan 2022 - Apr 2022)
 
-### Mobile App Developer at Infinity Pillars
-(July 2022 - November 2022)
-
-At Infinity Pillars, I built React Native apps with seamless UX and efficient state management. I enhanced functionality and performance through API and library integration, ensuring smooth app releases and continuous improvement on app stores.
-
-Website: [Infinity Pillars](https://www.infinitypillars.com/)
+During my trainee role at HighRadius, I created a full-stack web-based product with data models, machine learning integration, UI components, and backend design expertise.
 
 ## Projects
 
-### JIRA Automation
-(July 2023)
+### Serverless Data Management on AWS
+(Jun 2023)
 
-I automated JIRA Software using Python & REST API for efficient ticket handling. This project boosted team productivity and streamlined project management.
+I implemented a serverless data management solution on AWS, utilizing S3, Lambda, and Redshift. This enabled efficient data upload, transformation, and analysis, resulting in valuable business insights.
 
-GitHub Repository: [JIRA Automation](https://github.com/prashantkr006/JIRA_Automation)
+### ShopStyle
+(Mar 2022 - Apr 2022)
 
-### DataFlow Insights: Serverless Data Management on AWS
-(May 2023 - June 2023)
+I built an e-commerce web app using the MERN tech stack with user authentication. The app includes features such as filtering, sorting, and pagination, enhancing the user shopping experience.
 
-I developed a serverless data management system on AWS, automating S3-to-Redshift workflow for seamless data ingestion. I implemented a reliable Lambda function for data transformation and Redshift insertion, leveraging Redshift data for valuable business insights.
+Website: [ShopStyle](https://prashantkr006.github.io/shopStyle/)
 
-### Shop Style
-(March 2022 - April 2022)
+### Bike Trip Data Analysis: Insights
+(May 2023)
 
-I created an e-commerce B2C web application for fashionable items. The platform boasts pixel-perfect design and responsiveness for all screens. The tech stack includes React.js for frontend and Node.js/Express for backend.
-
-Website: [Shop Style](https://prashantkr006.github.io/shopStyle/)
-
-## Education
-
-### Bachelor's of Technology, Computer Science and Engineering
-Lovely Professional University (August 2019 - August 2023)
-CGPA: 7.76
-
-## Skills
-
-- App Development (React Native)
-- Data Engineering and Data Management
-- Serverless Architecture on AWS
-- API Integration
-- Full-stack Web Product Development
-- Java Programming
-- SQL and Database Management
-- Spring Framework
-- CI/CD
-- Git
-- Software Design Patterns
-- Agile Development
-- Next.js
-- Express.js
-- Tailwind CSS
-- NoSQL
+I streamlined bike trip data analysis using AWS S3, Informatica Cloud (ETL), Snowflake (data warehousing), and Tableau (data visualization). This optimized rides and improved the overall user experience.
 
 ## Certifications
 
 - Associate Cloud Engineer, Google
-  This certification equips me with expertise to contribute effectively to cloud-based projects and empower businesses to leverage the full potential of GCP for their needs.
+  Certified Associate Cloud Engineer with expertise in deploying and managing applications on cloud platforms, ensuring seamless integration and optimal performance.
+  Certificate: [Google Certification](https://lnkd.in/dE3ARrMD)
+  
+- Modern Big Data Analysis with SQL, Coursera
+  Completed the Modern Big Data Analysis with SQL specialization, which covers various aspects of data analysis and SQL usage.
+  Certificate: [Coursera Certification](https://bit.ly/3uQPj8m)
 
-## Portfolio Website
+## Education
 
-To view my full resume and more details, please visit my portfolio website: [Prashant Kumar Roy - Portfolio](https://rxresu.me/prashantkr006/resume-for-software-development)
+- Bachelor of Technology in Computer Science and Engineering
+  Lovely Professional University, Punjab, India (Jul 2019 - Jun 2023)
+  CGPA: 7.8
+
+- 10+2 in PCM (Physics, Chemistry, Mathematics)
+  BSEB, Bihar, India (Apr 2017 - Mar 2019)
+  Percentage: 67.8%
+
+## Skills
+
+- Software Development
+- Cloud Platforms
+- CI/CD
+- Containerization
+- API Design and Integration
+- Database Management
+- Data Structures and Algorithms
+- Scripting and Automation
+- Agile Methodologies
+- Object-Oriented Programming (OOP)
+- Web Development
+- Back-end Development
+
+## Programming Languages & Queries
+
+- Python
+- Java
+- JavaScript
+- SQL
+
+## Interests
+
+- Reading & Writing
+- Traveling
+
+For a detailed view of my professional journey and accomplishments, please visit my portfolio: [bio.link/prashantkr006](https://bio.link/prashantkr006)
