@@ -1,6 +1,6 @@
 # Prashant Kumar Roy - Portfolio
 
-Welcome to my portfolio! I'm a highly creative and self-motivated individual passionate about developing apps and harnessing my inner creativity.
+Welcome to my impactful portfolio! I'm a highly creative and self-motivated individual passionate about developing apps and harnessing my inner creativity.
 
 - **Location:** Chandigarh, India
 - **Email:** prashantkr006@gmail.com
@@ -9,12 +9,12 @@ Welcome to my portfolio! I'm a highly creative and self-motivated individual pas
 - **Portfolio:** [bio.link/prashantkr006](https://bio.link/prashantkr006)
 - **GitHub:** [prashantkr006](https://github.com/prashantkr006)
 
-## Work Experience
+## :briefcase: Work Experience
 
 ### Data Engineer Intern at Quantiphi
 (Mar 2023 - Present)
 
-At Quantiphi, I'm involved in processing large datasets and building data pipelines. I collaborate on data model optimization and ETL processes, gaining skills in data manipulation, database management, and cloud technologies.
+At Quantiphi, I process large datasets and build data pipelines. I collaborate on data model optimization and ETL processes, gaining skills in data manipulation, database management, and cloud technologies.
 
 ### Software Developer at Infinity-Pillars
 (Jul 2022 - Nov 2022)
@@ -28,7 +28,7 @@ Website: [Infinity-Pillars](https://www.linkedin.com/company/infinity-pillars/my
 
 During my trainee role at HighRadius, I created a full-stack web-based product with data models, machine learning integration, UI components, and backend design expertise.
 
-## Projects
+## :rocket: Projects
 
 ### Serverless Data Management on AWS
 (Jun 2023)
@@ -38,7 +38,7 @@ I implemented a serverless data management solution on AWS, utilizing S3, Lambda
 ### ShopStyle
 (Mar 2022 - Apr 2022)
 
-I built an e-commerce web app using the MERN tech stack with user authentication. The app includes features such as filtering, sorting, and pagination, enhancing the user shopping experience.
+I built an e-commerce web app using the MERN tech stack with user authentication. The app includes features such as filtering, sorting, and pagination, enhancing the user's shopping experience.
 
 Website: [ShopStyle](https://prashantkr006.github.io/shopStyle/)
 
@@ -47,17 +47,17 @@ Website: [ShopStyle](https://prashantkr006.github.io/shopStyle/)
 
 I streamlined bike trip data analysis using AWS S3, Informatica Cloud (ETL), Snowflake (data warehousing), and Tableau (data visualization). This optimized rides and improved the overall user experience.
 
-## Certifications
+## :trophy: Certifications
 
-- Associate Cloud Engineer, Google
+- :cloud: Associate Cloud Engineer, Google
   Certified Associate Cloud Engineer with expertise in deploying and managing applications on cloud platforms, ensuring seamless integration and optimal performance.
   Certificate: [Google Certification](https://lnkd.in/dE3ARrMD)
   
-- Modern Big Data Analysis with SQL, Coursera
-  Completed the Modern Big Data Analysis with SQL specialization, which covers various aspects of data analysis and SQL usage.
+- :bar_chart: Modern Big Data Analysis with SQL, Coursera
+  Completed Modern Big Data Analysis with SQL specialization, which covers various aspects of data analysis and SQL usage.
   Certificate: [Coursera Certification](https://bit.ly/3uQPj8m)
 
-## Education
+## :mortar_board: Education
 
 - Bachelor of Technology in Computer Science and Engineering
   Lovely Professional University, Punjab, India (Jul 2019 - Jun 2023)
@@ -67,29 +67,64 @@ I streamlined bike trip data analysis using AWS S3, Informatica Cloud (ETL), Sno
   BSEB, Bihar, India (Apr 2017 - Mar 2019)
   Percentage: 67.8%
 
-## Skills
+## :gear: Skills
 
-- Software Development
-- Cloud Platforms
-- CI/CD
-- Containerization
-- API Design and Integration
-- Database Management
-- Data Structures and Algorithms
-- Scripting and Automation
-- Agile Methodologies
-- Object-Oriented Programming (OOP)
-- Web Development
-- Back-end Development
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        💻<br>Software Development
+      </td>
+      <td align="center">
+        ☁️<br>Cloud Platforms
+      </td>
+      <td align="center">
+        🔄<br>CI/CD
+      </td>
+      <td align="center">
+        🐳<br>Containerization
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        🌐<br>API Design and Integration
+      </td>
+      <td align="center">
+        📊<br>Database Management
+      </td>
+      <td align="center">
+        📚<br>Data Structures and Algorithms
+      </td>
+      <td align="center">
+        🤖<br>Scripting and Automation
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        🏃‍♂️<br>Agile Methodologies
+      </td>
+      <td align="center">
+        🧬<br>Object-Oriented Programming (OOP)
+      </td>
+      <td align="center">
+        🌐<br>Web Development
+      </td>
+      <td align="center">
+        ⚙️<br>Back-end Development
+      </td>
+    </tr>
+  </table>
+</div>
 
-## Programming Languages & Queries
+
+## :computer: Programming Languages & Queries
 
 - Python
 - Java
 - JavaScript
 - SQL
 
-## Interests
+## :book: Interests
 
 - Reading & Writing
 - Traveling
